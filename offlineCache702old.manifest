@@ -1,19 +1,25 @@
 CACHE MANIFEST 
-# v1.0 : Tue 06/29/2021 
+# v2.5.5 Self-Host 
 
 Activator.html
 app2usb.html
 app2usb.js
 ArabicGuy100.html
+ArabicGuy100.js
 ArabicGuy127.html
+ArabicGuy127.js
 ArabicGuy132.html
+ArabicGuy132.js
 backup.html
 backup.js
 binloader.html
 binloader.js
 CALLER100.html
+CALLER100.js
 CALLER127.html
+CALLER127.js
 CALLER132.html
+CALLER132.js
 disableupdates.html
 disableupdates.js
 dumper.html
@@ -48,6 +54,7 @@ jb.js
 kclock.js
 KernelClock.html
 Lamance132.html
+Lamance132.js
 linux1.js
 linux3.js
 linuxloader1.html
