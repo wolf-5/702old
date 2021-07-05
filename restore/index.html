@@ -3,9 +3,7 @@
 <body onload="go()">
 <script>
 function print(){}
-
 var scriptCode = '';
-
 function preloadScripts(lst)
 {
     for(var i = 0; i < lst.length; i++)
@@ -16,17 +14,13 @@ function preloadScripts(lst)
         scriptCode += xhr.responseText + '\n';
     }
 }
-
 function done(){}
-
 window.midExploit = function()
 {
     preloadScripts(['702.js', 'jb.js', 'mira.js', 'restore.js', 'netcat.js'], go);
 }
-
 window.postExploit = function()
 {
-
     setTimeout(function()
     {
         eval.call(window, scriptCode);
