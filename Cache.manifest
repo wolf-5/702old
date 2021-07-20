@@ -15,6 +15,7 @@ backup.html
 backup.js
 binloader.html
 binloader.js
+Cache.manifest
 CALLER100.html
 CALLER100.js
 CALLER127.html
@@ -63,12 +64,12 @@ linuxloader3.html
 loader.js
 orbis.html
 orbis.js
-Oysters-1.13.html
-Oysters-1.13.js
-Oysters-1.19.html
-Oysters-1.19.js
-Oysters-1.24.html
-Oysters-1.24.js
+oyster113.js
+oyster119.js
+oyster124.js
+Oysters113.html
+Oysters119.html
+Oysters124.html
 payload.js
 ps4.jpg
 ps4.js
