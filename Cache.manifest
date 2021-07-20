@@ -1,5 +1,4 @@
 CACHE MANIFEST 
-# random: 80859e6cd66a81929415d6e4b15cc97 
 
 CACHE: 
 Activator.html
@@ -15,7 +14,6 @@ backup.html
 backup.js
 binloader.html
 binloader.js
-Cache.manifest
 CALLER100.html
 CALLER100.js
 CALLER127.html
@@ -76,6 +74,8 @@ ps4.js
 ps4debug.html
 ps4debug.js
 ps4m.js
+restore.html
+restore.js
 rop.js
 spoof.html
 spoof.js
