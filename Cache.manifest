@@ -58,7 +58,6 @@ linuxloader1.html
 linuxloader3.html
 loader.js
 orbis.html
-orbis.js
 oyster113.js
 oyster119.js
 oyster124.js
@@ -79,6 +78,7 @@ spoof.js
 Style.css
 todex.html
 todex.js
+Toolbox702.js
 userland.js
 utils.js
 utilsm.js
