@@ -1,6 +1,6 @@
 CACHE MANIFEST 
+# v2.5.5 Self-Host 
 
-CACHE: 
 Activator.html
 app2usb.html
 app2usb.js
@@ -36,16 +36,8 @@ fps4.js
 frop.js
 ftp.html
 ftp.js
-goldhen.html
-goldhen.js
-goldhen1.html
-goldhen1.js
 goldhen2.html
 goldhen2.js
-hen.html
-hen.js
-hen213b.html
-hen213b.js
 index.html
 int64.js
 int64m.js
@@ -86,6 +78,3 @@ utils.js
 utilsm.js
 webrte.html
 webrte.js
-
-NETWORK: 
-* 
